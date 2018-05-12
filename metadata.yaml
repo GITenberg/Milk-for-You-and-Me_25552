@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31418'
     url: http://www.gutenberg.org/2009/agents/31418
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25552#Milk-for-You-and-Me
 gutenberg_issued: '2008-05-21'
 gutenberg_type: Text
 identifiers:
